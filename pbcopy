@@ -1,0 +1,228 @@
+[
+  {
+    name: 'Dispensary',
+    lat: 'Address',
+    lng: 'Lat',
+    gmapsLink: 'Long',
+    link: 'Google Maps Link'
+  },
+  {
+    name: 'Atrium',
+    lat: '5441 CA-27, Woodland Hills, CA 91367',
+    lng: '34.1698386',
+    gmapsLink: '-118.6061305',
+    link: 'https://www.google.com/maps/place/Atrium+Marijuana+Dispensary/@34.1698386,-118.6061305,15z/data=!4m5!3m4!1s0x0:0x79e752b643bc89aa!8m2!3d34.1698386!4d-118.6061305'
+  },
+  {
+    name: 'BARC',
+    lat: '432 S San Vicente Blvd #100, Los Angeles, CA 90048',
+    lng: '34.070775',
+    gmapsLink: '-118.37564',
+    link: 'https://www.google.com/maps/place/Relief+CCR+dba+BARC+Collective+Medical+%26+Recreational+Cannabis+C10-0000410/@34.070775,-118.37564,15z/data=!4m5!3m4!1s0x0:0xca69551c4a3958a2!8m2!3d34.070775!4d-118.37564'
+  },
+  {
+    name: 'Liberty - Beach Center',
+    lat: '1115 W 190th St, Gardena, CA 90248',
+    lng: '33.8589438',
+    gmapsLink: '-118.3565726',
+    link: 'https://www.google.com/maps/place/Liberty+Beach+Center/@33.8589438,-118.3565726,12z/data=!4m5!3m4!1s0x0:0xe858831c2deb9332!8m2!3d33.8589438!4d-118.2952895'
+  },
+  {
+    name: 'Canna Healthcare Inc',
+    lat: '2111 Long Beach Ave, Los Angeles, CA 90058',
+    lng: '34.017651',
+    gmapsLink: '-118.2460147',
+    link: 'https://www.google.com/maps/place/Universal+Cannabis+DTLA/@34.017651,-118.2460147,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c9ff920015bd:0x677477f0f650fbc5!8m2!3d34.017651!4d-118.243826'
+  },
+  {
+    name: 'Cannabis Local',
+    lat: '12800 Wentworth St, Arleta, CA 91331',
+    lng: '34.2362406',
+    gmapsLink: '-118.411438',
+    link: 'https://www.google.com/maps/place/Cannabis+Local+Los+Angeles+-+an+LA+Cannabis+Dispensary/@34.2362406,-118.411438,15z/data=!4m5!3m4!1s0x0:0x9f9273322b1116ea!8m2!3d34.2362406!4d-118.411438'
+  },
+  {
+    name: 'Cannary West',
+    lat: '2435 Military Ave, Los Angeles, CA 90064',
+    lng: '34.0373126',
+    gmapsLink: '-118.4327165',
+    link: 'https://www.google.com/maps/place/Cannary+West/@34.0373126,-118.4327165,15z/data=!4m2!3m1!1s0x0:0x762969e4ef6256fa?sa=X&ved=2ahUKEwi_6KH4vofrAhXOZc0KHYQqBf4Q_BIwC3oECBIQCA'
+  },
+  {
+    name: 'Catalyst - Eastside LBC',
+    lat: '2115 E 10th St, Long Beach, CA 90804',
+    lng: '33.7792632',
+    gmapsLink: '-118.1662774',
+    link: 'https://www.google.com/maps/place/Catalyst+-+Eastside+LBC/@33.7792632,-118.1662774,15z/data=!4m2!3m1!1s0x0:0xab788d052a9c54f0?sa=X&ved=2ahUKEwjepeq2v4frAhVQXM0KHRgpCnwQ_BIwCnoECBcQCA'
+  },
+  {
+    name: 'Circle of Hope Alliance',
+    lat: '16901 Roscoe Blvd, Northridge, CA 91343',
+    lng: '34.2213683',
+    gmapsLink: '-118.5011637',
+    link: 'https://www.google.com/maps/place/Circle+of+Hope+Alliance/@34.2213683,-118.5011637,15z/data=!4m2!3m1!1s0x0:0xd7fa70bb754708ef?sa=X&ved=2ahUKEwio97vrv4frAhVILs0KHQo6DwYQ_BIwCnoECBgQCA'
+  },
+  {
+    name: 'Catalyst - Cherry',
+    lat: '3170 Cherry Ave, Long Beach, CA 90807',
+    lng: '33.8150218',
+    gmapsLink: '-118.1667063',
+    link: 'https://www.google.com/maps/place/Catalyst+Cannabis+-+Cherry/@33.8150218,-118.1667063,15z/data=!4m2!3m1!1s0x0:0xee37c3f3593c1f32?sa=X&ved=2ahUKEwj6tOCewIfrAhVSbs0KHajEDQMQ_BIwCnoECBYQCA'
+  },
+  {
+    name: 'Catalyst - Bellflower',
+    lat: '9032 Artesia Blvd building b, Bellflower, CA 90706',
+    lng: '33.874541',
+    gmapsLink: '-118.1416303',
+    link: 'https://www.google.com/maps/place/Catalyst+Cannabis+-+Bellflower/@33.874541,-118.1416303,15z/data=!4m2!3m1!1s0x0:0x32dc29245ce4b69e?sa=X&ved=2ahUKEwirrpjFwIfrAhWRB80KHaH2BmoQ_BIwCnoECBgQCA'
+  },
+  {
+    name: 'Catalyst - Belmont Shore',
+    lat: '5227 2nd St, Long Beach, CA 90803',
+    lng: '33.7602891',
+    gmapsLink: '-118.134235',
+    link: 'https://www.google.com/maps/place/Catalyst+Cannabis+-+Belmont+Shore/@33.7602891,-118.134235,15z/data=!4m2!3m1!1s0x0:0xe4f5e52e5c997e26?sa=X&ved=2ahUKEwjY4feIwYfrAhUCEawKHTULC4UQ_BIwCnoECBYQCA'
+  },
+  {
+    name: 'Catalyst - Santa Ana',
+    lat: '2400 Pullman St B, Santa Ana, CA 92705',
+    lng: '33.714998',
+    gmapsLink: '-117.8463637',
+    link: 'https://www.google.com/maps/place/Catalyst+Cannabis+-+Santa+Ana/@33.714998,-117.8463637,17z/data=!3m1!4b1!4m5!3m4!1s0x80dcd94d390b0e6b:0x4c1894a7f7c1b99d!8m2!3d33.714998!4d-117.844175'
+  },
+  {
+    name: 'Cookies - Maywood',
+    lat: '5815 Maywood Ave, Maywood, CA 90270',
+    lng: '33.9897109',
+    gmapsLink: '-118.2059635',
+    link: 'https://www.google.com/maps/place/Cookies+Los+Angeles/@33.9897109,-118.2059635,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2ced36d9d488f:0x90367e2eec330227!8m2!3d33.9897109!4d-118.2037748'
+  },
+  {
+    name: 'Cookies - Melrose',
+    lat: '8360 Melrose Ave #101, Los Angeles, CA 90069',
+    lng: '34.0835092',
+    gmapsLink: '-118.3745874',
+    link: 'https://www.google.com/maps/place/COOKIES+MELROSE/@34.0835092,-118.3745874,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2bfa44a5b80a5:0x92b405c443e40189!8m2!3d34.0835092!4d-118.3723987'
+  },
+  {
+    name: 'Daddys Pipes Inc',
+    lat: '7040 Hayvenhurst Ave, Van Nuys, CA 91406',
+    lng: '34.1985887',
+    gmapsLink: '-118.4920928',
+    link: 'https://www.google.com/maps/place/Daddy%E2%80%99s+dispensary/@34.1985887,-118.4920928,15z/data=!4m5!3m4!1s0x0:0x6d465cdadc348c7f!8m2!3d34.1985887!4d-118.4920928'
+  },
+  {
+    name: 'DELI By Caliva - San Jose ',
+    lat: '92 Pullman Way, San Jose, CA 95111',
+    lng: '37.2902034',
+    gmapsLink: '-121.8496062',
+    link: 'https://www.google.com/maps/place/DELI+by+Caliva+-+Cannabis+Dispensary/@37.2902034,-121.8496062,15z/data=!4m2!3m1!1s0x0:0x8d7527dda60bffa6?sa=X&ved=2ahUKEwiIip_uw4frAhXvAp0JHfPUDZ8Q_BIwDHoECBYQCA'
+  },
+  {
+    name: 'Erba Collective',
+    lat: '12320 W Pico Blvd, Los Angeles, CA 90064',
+    lng: '34.0281344',
+    gmapsLink: '-118.4544509',
+    link: 'https://www.google.com/maps/place/Erba+Collective/@34.0281344,-118.4544509,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2bb1031a05927:0x4b5cad264b08e577!8m2!3d34.0281344!4d-118.4522622'
+  },
+  {
+    name: 'Euphoric',
+    lat: '10655 W Pico Blvd, Los Angeles, CA 90064',
+    lng: '34.0427667',
+    gmapsLink: '-118.4237448',
+    link: 'https://www.google.com/maps/place/Euphoric/@34.0427667,-118.4237448,15z/data=!4m5!3m4!1s0x0:0x8b21ed346590b63d!8m2!3d34.0427667!4d-118.4237448'
+  },
+  {
+    name: 'Exhale Med Center',
+    lat: '980 N La Cienega Blvd #102, Los Angeles, CA 90069',
+    lng: '34.0890695',
+    gmapsLink: '-118.3760751',
+    link: 'https://www.google.com/maps/place/Exhale+Med+Center/@34.0890695,-118.3760751,15z/data=!4m2!3m1!1s0x0:0x5151a81a14fea93e?sa=X&ved=2ahUKEwi-1PyfxYfrAhXLVc0KHdO4BrEQ_BIwCnoECBUQCA'
+  },
+  {
+    name: "King's Crew",
+    lat: '5630 CA-1, Long Beach, CA 90814',
+    lng: '33.7747683',
+    gmapsLink: '-118.1223945',
+    link: "https://www.google.com/maps/place/King's+Crew/@33.7747683,-118.1223945,15z/data=!4m2!3m1!1s0x0:0x4f2f4a9033806116?sa=X&ved=2ahUKEwin-Zn2x4frAhUHQ6wKHZeICZ4Q_BIwCnoECBQQCA"
+  },
+  {
+    name: 'Golden Leaf Scientifics',
+    lat: '7117 Laurel Canyon Blvd North Hollywood, CA 91605',
+    lng: '34.1997515',
+    gmapsLink: '-118.398908',
+    link: 'https://www.google.com/maps/place/7117+Laurel+Canyon+Blvd,+North+Hollywood,+CA+91605/@34.1997515,-118.398908,17z/data=!3m1!4b1!4m5!3m4!1s0x80c29683c788d5a7:0x7f18956327b8452!8m2!3d34.1997515!4d-118.3967193'
+  },
+  { name: 'Goldleaf Group', lat: '', lng: '', gmapsLink: '', link: '' },
+  {
+    name: 'Harvest House of Cannabis',
+    lat: '712 Lincoln Blvd, Venice, CA 90291',
+    lng: '33.9997745',
+    gmapsLink: '-118.4639887',
+    link: 'https://www.google.com/maps/place/Harvest+HOC+of+Venice+Dispensary/@33.9997745,-118.4639887,15z/data=!4m5!3m4!1s0x0:0x122fdb47c99f7822!8m2!3d33.9997745!4d-118.4639887'
+  },
+  {
+    name: 'Herbal Pain Relief Center',
+    lat: '10736 Sepulveda Blvd, Mission Hills, CA 91345',
+    lng: '34.2652884',
+    gmapsLink: '-118.4669142',
+    link: 'https://www.google.com/maps/place/10736+Sepulveda+Blvd,+Mission+Hills,+CA+91345/@34.2652884,-118.4691029,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2906638d580d9:0xb65a1346d4f4db21!8m2!3d34.2652884!4d-118.4669142'
+  },
+  { name: 'HPRC Inc', lat: '', lng: '', gmapsLink: '', link: '' },
+  {
+    name: 'New Amsterdam Naturals',
+    lat: '9021 Exposition Blvd, Los Angeles, CA 90034',
+    lng: '34.0289001',
+    gmapsLink: '-118.3926116',
+    link: 'https://www.google.com/maps/place/New+Amsterdam+Naturals+-+NNCC/@34.0289001,-118.3926116,15z/data=!4m2!3m1!1s0x0:0xb2f34262feb8714e?sa=X&ved=2ahUKEwiTheGqyofrAhVOK80KHcS1ANEQ_BIwCnoECBgQCA'
+  },
+  {
+    name: 'Roots',
+    lat: '11045 Sherman Way, Sun Valley, CA 91352',
+    lng: '34.201506',
+    gmapsLink: '-118.372',
+    link: 'https://www.google.com/maps/place/Roots+LA+Weed+Store/@34.201506,-118.372,15z/data=!4m2!3m1!1s0x0:0xd87e916ded2283a1?sa=X&ved=2ahUKEwjdpb3HyofrAhUYVc0KHS2PDjAQ_BIwCnoECBYQCA'
+  },
+  {
+    name: 'Smartweed',
+    lat: '1040 N Western Ave, Los Angeles, CA 90029',
+    lng: '34.0895568',
+    gmapsLink: '-118.3110772',
+    link: 'https://www.google.com/maps/place/Smartweed/@34.0895568,-118.3110772,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2b9492b0a0e15:0xd85f23f38107d680!8m2!3d34.0895568!4d-118.3088885'
+  },
+  {
+    name: 'The Artist Tree',
+    lat: '8625 Santa Monica Blvd, West Hollywood, CA 90069',
+    lng: '34.0878217',
+    gmapsLink: '-118.382104',
+    link: 'https://www.google.com/maps/place/The+Artist+Tree+Marijuana+Dispensary+%26+Delivery+Hollywood/@34.0878217,-118.382104,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2bf6d2badb89d:0x540b46260e4d0c9!8m2!3d34.0878217!4d-118.3799153'
+  },
+  {
+    name: 'The Healing Touch',
+    lat: '18013 Ventura Blvd, Encino, CA 91316',
+    lng: '34.1648194',
+    gmapsLink: '-118.5270066',
+    link: 'https://www.google.com/maps/place/The+Healing+Touch/@34.1648194,-118.5270066,17z/data=!3m1!4b1!4m5!3m4!1s0x80c299ac48e0a51d:0x8802fc91d322ba05!8m2!3d34.1648194!4d-118.5248179'
+  },
+  {
+    name: 'The Highest Craft LLC DBA Hyperwolf',
+    lat: '',
+    lng: '33.8875418',
+    gmapsLink: '-118.9808681',
+    link: 'https://www.google.com/maps/place/Hyperwolf/@33.8875418,-118.9808681,8z/data=!3m1!4b1!4m5!3m4!1s0x80dc9939f1e9766f:0xce23a6fe47c69651!8m2!3d33.8926176!4d-117.859921'
+  },
+  {
+    name: 'The Pottery',
+    lat: '5042 Venice Blvd, Los Angeles, CA 90019',
+    lng: '34.0450851',
+    gmapsLink: '-118.3485918',
+    link: 'https://www.google.com/maps/place/The+Pottery+(Shop+and+Delivery)/@34.0450851,-118.3507805,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2b9c2df247ee5:0x767cfd8c4c63be34!8m2!3d34.0450851!4d-118.3485918'
+  },
+  {
+    name: 'The Shop - Woodland Hills',
+    lat: '5338 Alhama Dr, Woodland Hills, CA 91364',
+    lng: '34.1662187',
+    gmapsLink: '-118.592795',
+    link: 'https://www.google.com/maps/place/The+Shop+WH/@34.1662187,-118.592795,15z/data=!4m2!3m1!1s0x0:0xa0b373e88386506?sa=X&ved=2ahUKEwiCqJ_VzIfrAhVJXq0KHdtqBwgQ_BIwCnoECBMQCA'
+  }
+]

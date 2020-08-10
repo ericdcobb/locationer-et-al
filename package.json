@@ -1,0 +1,10 @@
+{
+  "name": "locationer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^4.12.0",
+    "yargs": "^15.4.1"
+  }
+}
