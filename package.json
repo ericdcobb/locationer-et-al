@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "aws-sdk": "^2.729.0",
     "csv-parse": "^4.12.0",
     "yargs": "^15.4.1"
   }
